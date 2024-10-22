@@ -1,0 +1,1 @@
+This Verilog code simulates a traffic light controller for a four-way intersection. Each direction (East, South, West, North) has its own traffic light, which can be green, yellow, or red. The system cycles through the lights for each direction based on a counter and moves from green to yellow, then switches to the next direction.
